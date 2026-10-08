@@ -1,8 +1,9 @@
-# Icons-and-assets
-Icons and assets for my projects
+# Icons and Assets
 
-https://github.com/matanyah123/Icons-and-assets/blob/main/Icons/v.png
+Icons and assets for my projects.
 
-https://github.com/matanyah123/Icons-and-assets/blob/main/Icons/x.png
-
-https://github.com/matanyah123/Icons-and-assets/blob/main/Icons/p.png
+| Icon | Preview | Direct URL |
+| --- | :---: | --- |
+| Supported | <img src="Icons/v.png" width="16" height="16" style="image-rendering: pixelated;"> | `https://raw.githubusercontent.com/matanyah123/Icons-and-assets/main/Icons/v.png` |
+| Unsupported | <img src="Icons/x.png" width="16" height="16" style="image-rendering: pixelated;"> | `https://raw.githubusercontent.com/matanyah123/Icons-and-assets/main/Icons/x.png` |
+| Partial | <img src="Icons/p.png" width="16" height="16" style="image-rendering: pixelated;"> | `https://raw.githubusercontent.com/matanyah123/Icons-and-assets/main/Icons/p.png` |
